@@ -1,1 +1,1 @@
-http://10.8.36.2:9090/ES_CANAL_DE_CASA/index.m3u8,http://play2000.xyz:9999/logos/latinostv.png
+http://190.108.85.2:9994/ES_CANAL_DE_CASA/index.m3u8,http://play2000.xyz:9999/logos/latinostv.png
