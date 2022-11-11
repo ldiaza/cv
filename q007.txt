@@ -1,0 +1,1 @@
+http://10.8.36.2:9090/UNIVERSAL_REALITY/index.m3u8,http://play2000.xyz:9999/logos/latinostv.png
